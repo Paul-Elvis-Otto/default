@@ -1,0 +1,17 @@
+---
+title: "Databases in R a test"
+author: "Paul Elvis Otto"
+date: today
+---
+
+```{=typst}
+#set par(
+  leading: 0.975em
+)
+```
+```{=typst}
+#set page(
+  header: align(right)[
+    Paul Elvis Otto
+  ]
+)

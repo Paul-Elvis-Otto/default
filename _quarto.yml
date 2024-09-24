@@ -1,0 +1,15 @@
+project:
+  title: "Databases-notes"
+
+
+format:
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+    columns: 2
+
+execute: 
+  echo: false
+  warning: false
+  error: false
+  freeze: true
